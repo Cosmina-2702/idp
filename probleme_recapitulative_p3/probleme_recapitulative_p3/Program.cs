@@ -10,8 +10,9 @@ namespace probleme_recapitulative_p3
     {
         static void Main(string[] args)
         {
-            List<int> lista1 = new List<int> { 1, 3, 6, 9  };
-            List<int> lista2 = new List<int> { 3, 9, 18, 27 };
+            // Declararea celor doua liste
+            List<int> lista1 = new List<int> { 1, 3, 6, 9, 3  };
+            List<int> lista2 = new List<int> { 3, 9, 18, 27, 9 };
 
             // a. Să se afișeze lista rezultată prin reuniunea 
             List<int> reuniune = lista1.Union(lista2).ToList();
