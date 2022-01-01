@@ -1,0 +1,7 @@
+C:\Users\Cosmina\source\repos\probleme_recapitulative_p3\probleme_recapitulative_p3\bin\Debug\probleme_recapitulative_p3.exe.config
+C:\Users\Cosmina\source\repos\probleme_recapitulative_p3\probleme_recapitulative_p3\bin\Debug\probleme_recapitulative_p3.exe
+C:\Users\Cosmina\source\repos\probleme_recapitulative_p3\probleme_recapitulative_p3\bin\Debug\probleme_recapitulative_p3.pdb
+C:\Users\Cosmina\source\repos\probleme_recapitulative_p3\probleme_recapitulative_p3\obj\Debug\probleme_recapitulative_p3.csproj.AssemblyReference.cache
+C:\Users\Cosmina\source\repos\probleme_recapitulative_p3\probleme_recapitulative_p3\obj\Debug\probleme_recapitulative_p3.csproj.CoreCompileInputs.cache
+C:\Users\Cosmina\source\repos\probleme_recapitulative_p3\probleme_recapitulative_p3\obj\Debug\probleme_recapitulative_p3.exe
+C:\Users\Cosmina\source\repos\probleme_recapitulative_p3\probleme_recapitulative_p3\obj\Debug\probleme_recapitulative_p3.pdb
